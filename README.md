@@ -17,12 +17,3 @@ Página web personal de María Camila, ingeniera en formación en inteligencia a
 4. En **Source** elige **Deploy from a branch**, rama `main` y carpeta `/ (root)`. Guarda.
 5. En uno o dos minutos la página estará en `https://TU-USUARIO.github.io/portafolio/`.
 
-## Agregar LinkedIn y GitHub
-
-En `index.html`, busca la línea que empieza con `var LOGO=` y completa los enlaces:
-
-```js
-LINKS={linkedin:'https://www.linkedin.com/in/tu-perfil',github:'https://github.com/tu-usuario'}
-```
-
-Los botones aparecen solos junto al de descarga de la hoja de vida.
